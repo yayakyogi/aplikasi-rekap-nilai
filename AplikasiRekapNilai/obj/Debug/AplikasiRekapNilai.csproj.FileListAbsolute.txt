@@ -1,0 +1,8 @@
+D:\C#\UTS\AplikasiRekapNilai\AplikasiRekapNilai\bin\Debug\AplikasiRekapNilai.exe.config
+D:\C#\UTS\AplikasiRekapNilai\AplikasiRekapNilai\bin\Debug\AplikasiRekapNilai.exe
+D:\C#\UTS\AplikasiRekapNilai\AplikasiRekapNilai\bin\Debug\AplikasiRekapNilai.pdb
+D:\C#\UTS\AplikasiRekapNilai\AplikasiRekapNilai\obj\Debug\AplikasiRekapNilai.csprojResolveAssemblyReference.cache
+D:\C#\UTS\AplikasiRekapNilai\AplikasiRekapNilai\obj\Debug\AplikasiRekapNilai.MainForm.resources
+D:\C#\UTS\AplikasiRekapNilai\AplikasiRekapNilai\obj\Debug\AplikasiRekapNilai.csproj.GenerateResource.Cache
+D:\C#\UTS\AplikasiRekapNilai\AplikasiRekapNilai\obj\Debug\AplikasiRekapNilai.exe
+D:\C#\UTS\AplikasiRekapNilai\AplikasiRekapNilai\obj\Debug\AplikasiRekapNilai.pdb
