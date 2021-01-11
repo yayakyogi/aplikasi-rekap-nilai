@@ -1,6 +1,6 @@
 # Aplikasi Rekap Nilai
 
-Dibuat untuk memnuhi tugas UTS mata kuliah Pemrograman Lanjut
+Project C#
 
 Text editor SharpDevelop
 https://sharpdevelop.id.uptodown.com/windows
